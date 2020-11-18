@@ -1,5 +1,5 @@
 # txt2db
-This tool can be used to extract inforamtion from news articles downloaded from NexisUni in text format and structure and save it to a database.
+This tool can be used to extract information from news articles downloaded from NexisUni in text format and structure and save it to a database.
 
 ## About
 * This tool is created as a part of the research project 'Applying machine learning techniques to the study of polarization' which is financially supported by *the focus area Applied Data Science* at Utrecht University. 
